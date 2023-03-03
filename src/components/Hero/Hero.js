@@ -13,8 +13,8 @@ const Hero = () => (
   <Section row nopadding>
     <LeftSection>
       <SectionTitle main center>
-        Welcome To <br />
-        My Personal Portfolio
+        H1! <br />
+        I'm Divya Vikash
       </SectionTitle>
       <SectionText>
         As a seasoned software and frontend developer, my objective is to
