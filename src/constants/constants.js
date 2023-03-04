@@ -30,7 +30,7 @@ export const projects = [
     id: 2,
   },
   {
-    title: "Unichat",
+    title: "Blog",
     description:
       "Developed a web application using the MERN stack for blogging with user authentication, CRUD operations, and additional features, utilizing HTML5, CSS3, JavaScript, ReactJs, RESTful APIs, ContextAPI, MongoDB, Express, and Axios. Implemented user authentication and CRUD operations to allow users to create accounts, write, and read blogs, with additional functionalities.",
     image: "/images/blog.png",
