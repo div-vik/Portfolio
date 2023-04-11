@@ -32,9 +32,9 @@ export const projects = [
   {
     title: "Blog",
     description:
-      "Developed a web application using the MERN stack for blogging with user authentication, CRUD operations, and additional features, utilizing HTML5, CSS3, JavaScript, ReactJs, RESTful APIs, ContextAPI, MongoDB, Express, and Axios. Implemented user authentication and CRUD operations to allow users to create accounts, write, and read blogs, with additional functionalities.",
+      "Developed a web application using the MERN stack for blogging with user authentication, CRUD operations, and additional features, utilizing HTML5, CSS3, JavaScript, ReactJs, RESTful APIs, Redux, MongoDB, Express, and Axios. Implemented user authentication and CRUD operations to allow users to create accounts, write, and read blogs, with additional functionalities.",
     image: "/images/blog.png",
-    tags: ["React", "RESTful APIs", "MongoDB", "Express"],
+    tags: ["React", "RESTful APIs", "MongoDB", "Express", "Redux"],
     code: "https://github.com/div-vik/blog_",
     visit: "https://imaginative-biscuit-fe38aa.netlify.app/",
     id: 3,
