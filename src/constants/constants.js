@@ -5,8 +5,8 @@ export const projects = [
       "This is an API-based responsive web application that provides users with recipes for various dishes. It features additional functionalities that have been built using a combination of HTML5, SASS, JavaScript, NodeJs, and ReactJs.",
     image: "/images/recipe.png",
     tags: ["SASS", "Express", "React", "Node"],
-    code: "https://github.com/div-vik/recipe",
-    visit: "https://beautiful-meringue-c5c81f.netlify.app/",
+    code: "https://github.com/div-vik/recipe_",
+    visit: "https://recipe-px9o.vercel.app/",
     id: 0,
   },
   {
@@ -35,8 +35,8 @@ export const projects = [
       "Developed a web application using the MERN stack for blogging with user authentication, CRUD operations, and additional features, utilizing HTML5, CSS3, JavaScript, ReactJs, RESTful APIs, ContextAPI, MongoDB, Express, and Axios. Implemented user authentication and CRUD operations to allow users to create accounts, write, and read blogs, with additional functionalities.",
     image: "/images/blog.png",
     tags: ["React", "RESTful APIs", "MongoDB", "Express"],
-    code: "https://github.com/div-vik/Blog",
-    visit: "https://idyllic-klepon-7fba8c.netlify.app/",
+    code: "https://github.com/div-vik/blog_",
+    visit: "https://imaginative-biscuit-fe38aa.netlify.app/",
     id: 3,
   },
 ];
