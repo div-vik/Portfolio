@@ -56,9 +56,9 @@ const Header = () => (
       <SocialIcons href="http://www.linkedin.com/in/divya-vikash-a9035319b">
         <AiFillLinkedin size="3rem" />
       </SocialIcons>
-      <SocialIcons href="https://docs.google.com/document/d/1B68Veq02f9GWaYk7Jcle3hIsB5LoWG-fX7o9jV7Pf4Q/edit?usp=sharing">
+      {/* <SocialIcons href="https://docs.google.com/document/d/1B68Veq02f9GWaYk7Jcle3hIsB5LoWG-fX7o9jV7Pf4Q/edit?usp=sharing">
         <AiFillFileText size="3rem" />
-      </SocialIcons>
+      </SocialIcons> */}
     </Div3>
   </Container>
 );
