@@ -36,7 +36,7 @@ export const projects = [
     image: "/images/blog.png",
     tags: ["React", "RESTful APIs", "MongoDB", "Express", "Redux"],
     code: "https://github.com/div-vik/blog_",
-    visit: "https://imaginative-biscuit-fe38aa.netlify.app/",
+    visit: "https://6486d5f8d32246024d1b0953--lucky-babka-56dffc.netlify.app/",
     id: 3,
   },
 ];
