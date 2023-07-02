@@ -13,7 +13,7 @@ export const projects = [
     title: "Rent Car",
     description:
       "A professional car rental application, built with CSS3, ReactJS, Modern UI, and Bootstrap, offers seamless functionality and a modern design.",
-    image: "/images/fiverr.png",
+    image: "/images/rent-car.png",
     tags: ["React", "Modern UI", "Bootstrap"],
     code: "https://github.com/div-vik/rent-car",
     visit: "https://rent-car-t65d.vercel.app/home",
