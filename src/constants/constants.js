@@ -24,7 +24,7 @@ export const projects = [
     description:
       "Developed a ReactJS application showcasing movie details using TMDB API, featuring lazy loading, loading skeletons, and infinite scrolling for an engaging user experience.",
     image: "/images/movix.png",
-    tags: ["React", "Redux", "SCSS", "TMDB API"],
+    tags: ["React", "Redux", "TMDB API", "SCSS"],
     code: "https://github.com/div-vik/movix",
     visit: "https://movix-two-rho.vercel.app/",
     id: 2,
