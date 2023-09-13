@@ -30,6 +30,16 @@ export const projects = [
     id: 2,
   },
   {
+    title: "Nike",
+    description:
+      "A cutting-edge frontend development using React.js, Tailwind CSS, JavaScript, Responsive Designs and Next.js to craft a responsive, interactive, and high-performing UI for the Nike website with reusable components.",
+    image: "/images/nike.png",
+    tags: ["React", "Next.js", "TailwindCSS", "Vercel"],
+    code: "https://github.com/div-vik/nike-shoes/tree/main/client",
+    visit: "https://nike-shoes-kohl.vercel.app/",
+    id: 3,
+  },
+  {
     title: "Blog",
     description:
       "Developed a web application using the MERN stack for blogging with user authentication, CRUD operations, and additional features, utilizing HTML5, CSS3, JavaScript, ReactJs, RESTful APIs, Redux, MongoDB, Express, and Axios. Implemented user authentication and CRUD operations to allow users to create accounts, write, and read blogs, with additional functionalities.",
@@ -37,7 +47,7 @@ export const projects = [
     tags: ["React", "RESTful APIs", "MongoDB", "Express", "Redux"],
     code: "https://github.com/div-vik/blog_",
     visit: "https://6486d5f8d32246024d1b0953--lucky-babka-56dffc.netlify.app/",
-    id: 3,
+    id: 4,
   },
 ];
 
