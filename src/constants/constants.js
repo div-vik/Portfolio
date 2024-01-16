@@ -52,7 +52,10 @@ export const projects = [
 ];
 
 export const TimeLineData = [
-  { year: 2019, text: "Started my Bachelor of Engineering" },
+  {
+    year: 2019,
+    text: "Started my Bachelor of Engineering from Nitte Meenakshi Institute of Technology",
+  },
   {
     year: 2022,
     text: "Worked as a freelance developer for Promptosol Technologies Pvt. Ltd.",
